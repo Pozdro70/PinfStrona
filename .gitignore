@@ -48,4 +48,4 @@ _testmain.go
 *.psd
 
 #autoUploadScript
-au.py
+au.bat
