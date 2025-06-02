@@ -50,3 +50,4 @@ _testmain.go
 #autoUploadScript
 au.bat
 onSSHcmds.txt
+auconf.bat
